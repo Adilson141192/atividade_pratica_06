@@ -1,5 +1,5 @@
-let bebida = "";
-let valor = "";
+let bebida = null;
+let valor = "0";
 let valorFloat = parseFloat(valor);
 let valorFormatado = valorFloat.toFixed(2);
  
